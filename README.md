@@ -1,5 +1,5 @@
 <h3 align="center">
-  Aprenda a utilizar o modo Debug no InteliJ e faça Debug de Apps Java
+  Aprenda a utilizar o modo Debug no IntelliJ e faça Debug de Apps Java
 </h3>
 
 <p align="center">
